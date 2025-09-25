@@ -1,14 +1,18 @@
 # 👋 Hey, I'm Chevon Phillip (@chevyphillip)
 
-> **Senior Application Security Engineer → AI Engineering Student**  
-> _Building secure, accessible AI solutions that don't compromise on security or inclusivity_
+> **Senior Application Security Engineer → AI Engineer in Training**  
+> _Bridging secure software and human-centered AI with an eye toward accessibility and innovation._
+
+---
 
 ## 🚀 Current Focus
 
-- 🎓 **MS Software Engineering - AI Engineering @ WGU** (2025-2026)
-- 🔒 **Senior AppSec Engineer @ Shutterstock** - Securing applications at scale
-- 🤖 **Learning**: AI integration, machine learning, and human-centered AI design
-- ♿ **Passionate about**: AI accessibility, particularly for neurodivergent users and ADHD support
+- 🎓 **MS Data Science - Machine Learning & AI @ University of Phoenix**
+- 🔐 **Senior AppSec Engineer @ Shutterstock** — Leading bug bounty, AppSec education & AI security strategy
+- 🤖 **Building**: LLM-powered apps & agents using CrewAI, Langfuse, MLFlow, and Agno AI
+- ♿ **Passionate about**: AI accessibility (ADHD/neurodivergent support), secure ML deployment
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -19,81 +23,96 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### **AI & Machine Learning** _(Learning)_
+### **AI & Machine Learning**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
+![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-5A5A5A?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-00B140?style=for-the-badge&logo=checkmarx&logoColor=white)
 
-## 🔥 What I'm Working On
+---
 
-### 📚 **WGU AI Engineering Projects**
+## 🛡️ What I’m Building
 
-- **🤖 AI News CLI Tool**: Building CLI applications with AI API integration
-- **🔐 FastAPI Security**: JWT authentication & role-based permissions
-- **📝 AI Todo App**: PostgreSQL + Redis caching with AI features
-- **♿ Accessible AI Tools**: Focus on neurodivergent user experience
+### ⚽ [app.fleetsports.ai](https://app.fleetsports.ai)
+> LLM-powered sports analytics dashboard with natural language querying.  
+> Secure-by-design and built for accessibility (ADHD‑friendly UX).
 
-### 🛡️ **Security Research**
+### 🧠 [preschoolmagicprep.app](https://preschoolmagicprep.app)
+> An AI-powered educational tool for early learners with neurodivergent support features.
 
-- **AI Security**: Researching vulnerabilities in ML models and AI systems
-- **AppSec Automation**: Building security testing tools and pipelines
-- **Ethical AI**: Exploring bias detection and mitigation strategies
+### 🧪 AI Security & Tools
+> - Prompt injection safeguards, logging, and threat modeling  
+> - Secure agent deployment using Langfuse & CrewAI  
+> - Fraud detection pipelines in collaboration with internal teams
+
+---
+
+## 🧠 Certifications & Education
+
+- 🏅 AI Agents Fundamentals — Hugging Face  
+- 📜 CompTIA Security+, GPEN, MITRE ATT&CK  
+- 🧑🏽‍🏫 Adjunct Professor @ Alfred State — Cybersecurity & secure coding  
+- 🧪 Bug Bounty Researcher — HackerOne, Synack, Bugcrowd
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
 ![Chevon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chevyphillip&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chevyphillip&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chevyphillip&theme=radical&hide_border=true)
 
 </div>
 
+---
+
 ## 🎯 2025 Goals
 
-- [ ] 🎓 Complete **Applied Machine Learning for Business Solutions** course
-- [ ] 🤖 Build and deploy first **AI-integrated security tool**
-- [ ] ♿ Launch **accessibility-focused AI project** for ADHD users
-- [ ] 📝 Publish **AI Security research** and findings
-- [ ] 🚀 Contribute to **open-source AI security tools**
-- [ ] 🏆 Obtain **AI/ML security certification**
+- [ ] 🚀 Launch 2 new secure LLM agent tools  
+- [ ] ♿ Publish guide on building ADHD‑accessible AI interfaces  
+- [ ] 🔐 Open-source an AppSec automation tool for AI workflows  
+- [ ] 🧠 Speak at a security + AI conference  
+- [ ] 🧪 Conduct & publish AI security research  
 
-## 🌟 Unique Perspective
+---
 
-> _"I bring a security-first mindset to AI development - because innovation without security is just expensive vulnerability."_
+## 🌟 Mission
+
+> _“I bring a security-first mindset to AI development — because innovation without security is just expensive vulnerability.”_
 
 **My Focus Areas:**
 
-- 🔒 **Secure AI Development**: Applying AppSec principles to ML systems
-- ♿ **Inclusive AI**: Building AI tools that work for neurodivergent users
-- 🏗️ **AI Architecture**: Designing scalable, secure AI-integrated systems
-- 📋 **AI Compliance**: Ensuring ethical AI deployment and regulatory compliance
+- 🔒 Secure AI Engineering  
+- ♿ Inclusive Design for Neurodivergent Users  
+- 🧠 Human-Centered LLMs  
+- 🛠️ Threat Modeling for ML Pipelines  
 
-## 📫 Let's Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chevonphillip)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chevon.phillip@fleetsports.ai)
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chevonphillip)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chevonmdphillip@gmail.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chevyphillip)
 
 ---
 
 <div align="center">
-  
+
 **🔐 Security • 🤖 AI Engineering • ♿ Accessibility • 🎓 Continuous Learning**
 
-_"Building the future of secure, inclusive AI - one commit at a time"_
-
+_"Building secure, inclusive AI — one agent at a time."_  
 ![Profile Views](https://komarev.com/ghpvc/?username=chevyphillip&color=brightgreen&style=for-the-badge)
 
 </div>
