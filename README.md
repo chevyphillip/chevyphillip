@@ -40,19 +40,23 @@
 
 ---
 
-## 🛡️ What I’m Building
+## 🛡️ What I'm Building
 
-### ⚽ [app.fleetsports.ai](https://app.fleetsports.ai)
-> LLM-powered sports analytics dashboard with natural language querying.  
-> Secure-by-design and built for accessibility (ADHD‑friendly UX).
+### 🧪 [GetWiredDev](https://github.com/GetWiredDev) (Maintainer)
+> QA-focused AI agent framework with Intent/Auggie integration.
 
-### 🧠 [preschoolmagicprep.app](https://preschoolmagicprep.app)
-> An AI-powered educational tool for early learners with neurodivergent support features.
+### 🔒 HiveMind *(private)*
+> LLM Context Engine — building smarter context pipelines for agent workflows.
 
-### 🧪 AI Security & Tools
-> - Prompt injection safeguards, logging, and threat modeling  
-> - Secure agent deployment using Langfuse & CrewAI  
-> - Fraud detection pipelines in collaboration with internal teams
+### 📏 LalaBench *(private)*
+> AI Benchmarking Tooling — reproducible evaluation harnesses for LLM performance.
+
+---
+
+## 🧠 What I'm Learning
+
+- 🦫 **Go** — systems-level tooling and agent infrastructure
+- ⚡ **Zig** — low-level performance and memory safety
 
 ---
 
@@ -77,19 +81,9 @@
 
 ---
 
-## 🎯 2025 Goals
-
-- [ ] 🚀 Launch 2 new secure LLM agent tools  
-- [ ] ♿ Publish guide on building ADHD‑accessible AI interfaces  
-- [ ] 🔐 Open-source an AppSec automation tool for AI workflows  
-- [ ] 🧠 Speak at a security + AI conference  
-- [ ] 🧪 Conduct & publish AI security research  
-
----
-
 ## 🌟 Mission
 
-> _“I bring a security-first mindset to AI development — because innovation without security is just expensive vulnerability.”_
+> _"I bring a security-first mindset to AI development — because innovation without security is just expensive vulnerability."_
 
 **My Focus Areas:**
 
@@ -100,7 +94,7 @@
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chevonphillip)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chevonmdphillip@gmail.com)  
