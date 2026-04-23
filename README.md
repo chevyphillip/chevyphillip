@@ -1,16 +1,23 @@
 # 👋 Hey, I'm Chevon Phillip (@chevyphillip)
 
-> **Senior Application Security Engineer → AI Engineer in Training**  
-> _Bridging secure software and human-centered AI with an eye toward accessibility and innovation._
+> **Senior AppSec Engineer → AI Builder**  
+> _Bridging secure software and human-centered AI._
 
 ---
 
 ## 🚀 Current Focus
 
-- 🎓 **MS Data Science - Machine Learning & AI @ University of Phoenix**
-- 🔐 **Senior AppSec Engineer @ Shutterstock** — Leading bug bounty, AppSec education & AI security strategy
-- 🤖 **Building**: LLM-powered apps & agents using CrewAI, Langfuse, MLFlow, and Agno AI
-- ♿ **Passionate about**: AI accessibility (ADHD/neurodivergent support), secure ML deployment
+> _"I bring a security-first mindset to AI development — because innovation without security is just expensive vulnerability."_
+
+**Focus Areas:** Secure AI Engineering · Inclusive Design for Neurodivergent Users · Human-Centered LLMs · Threat Modeling for ML Pipelines
+
+**Education:** 🎓 MS Data Science — Security Analytics & Data-Driven Threat Detection
+
+**Certifications:** 📜 CompTIA Security+ · GPEN · MITRE ATT&CK · 🏅 AI Agents Fundamentals (Hugging Face) · 🧪 Bug Bounty Researcher (HackerOne, Synack, Bugcrowd)
+
+**Currently Learning:** 🦫 Go (systems-level tooling) · ⚡ Zig (low-level performance & memory safety)
+
+**Teaching:** 🧑🏽‍🏫 Adjunct Professor @ Alfred State — Cybersecurity & secure coding
 
 ---
 
@@ -59,22 +66,6 @@
 
 ---
 
-## 🧠 What I'm Learning
-
-- 🦫 **Go** — systems-level tooling and agent infrastructure
-- ⚡ **Zig** — low-level performance and memory safety
-
----
-
-## 🧠 Certifications & Education
-
-- 🏅 AI Agents Fundamentals — Hugging Face  
-- 📜 CompTIA Security+, GPEN, MITRE ATT&CK  
-- 🧑🏽‍🏫 Adjunct Professor @ Alfred State — Cybersecurity & secure coding  
-- 🧪 Bug Bounty Researcher — HackerOne, Synack, Bugcrowd
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -84,19 +75,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chevyphillip&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 🌟 Mission
-
-> _"I bring a security-first mindset to AI development — because innovation without security is just expensive vulnerability."_
-
-**My Focus Areas:**
-
-- 🔒 Secure AI Engineering  
-- ♿ Inclusive Design for Neurodivergent Users  
-- 🧠 Human-Centered LLMs  
-- 🛠️ Threat Modeling for ML Pipelines  
 
 ---
 
@@ -111,7 +89,7 @@
 
 **🔐 Security • 🤖 AI Engineering • ♿ Accessibility • 🎓 Continuous Learning**
 
-_"Building secure, inclusive AI — one agent at a time."_  
+_\"Building secure, inclusive AI — one agent at a time.\"_  
 ![Profile Views](https://komarev.com/ghpvc/?username=chevyphillip&color=brightgreen&style=for-the-badge)
 
 </div>
