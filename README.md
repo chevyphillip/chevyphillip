@@ -16,9 +16,14 @@
 
 ## 🛠️ Tech Stack
 
-### **Security & Development**
+### **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### **Security & AppSec**
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
@@ -35,7 +40,7 @@
 ### **AI Tools**
 
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
-![Augment Code](https://img.shields.io/badge/Augment-2D5BE8?style=for-the-badge&logo=augmentcode&logoColor=white)
+![Augment Code](https://img.shields.io/badge/Augment%20Code-23B06B?style=for-the-badge&logo=augmentcode&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Hermes Agents](https://img.shields.io/badge/Hermes-FF6B35?style=for-the-badge&logo=hermes&logoColor=white)
 
