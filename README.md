@@ -16,27 +16,28 @@
 
 ## 🛠️ Tech Stack
 
-### **Security & DevSecOps**
+### **Security & Development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![DataDome](https://img.shields.io/badge/DataDome-0C0C0C?style=for-the-badge&logo=datadome&logoColor=white)
 
-### **AI & Machine Learning**
+### **Observability & Infrastructure**
 
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
-![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-5A5A5A?style=for-the-badge&logo=OpenAI&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242B33?style=for-the-badge&logo=tailscale&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![BiFrost](https://img.shields.io/badge/BiFrost-7B61FF?style=for-the-badge&logo=bifrost&logoColor=white)
+![Sourcebot](https://img.shields.io/badge/Sourcebot-000000?style=for-the-badge&logo=sourcebot&logoColor=white)
 
-### **Tools & Platforms**
+### **AI Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Checkmarx](https://img.shields.io/badge/Checkmarx-00B140?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Augment Code](https://img.shields.io/badge/Augment-2D5BE8?style=for-the-badge&logo=augmentcode&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Hermes Agents](https://img.shields.io/badge/Hermes-FF6B35?style=for-the-badge&logo=hermes&logoColor=white)
 
 ---
 
@@ -97,8 +98,7 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chevonphillip)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chevonmdphillip@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chevyphillip)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chevyphillip)
 
 ---
 
