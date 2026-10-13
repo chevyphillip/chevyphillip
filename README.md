@@ -89,7 +89,7 @@
 
 **🔐 Security • 🤖 AI Engineering • ♿ Accessibility • 🎓 Continuous Learning**
 
-_\"Building secure, inclusive AI — one agent at a time.\"_  
+_"Building secure, inclusive AI — one agent at a time."_  
 ![Profile Views](https://komarev.com/ghpvc/?username=chevyphillip&color=brightgreen&style=for-the-badge)
 
 </div>
