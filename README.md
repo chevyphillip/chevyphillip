@@ -50,11 +50,17 @@
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Augment Code](https://img.shields.io/badge/Augment%20Code-23B06B?style=for-the-badge&logo=augmentcode&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Hermes Agents](https://img.shields.io/badge/Hermes-FF6B35?style=for-the-badge&logo=hermes&logoColor=white)
+![Hermes Agents](https://img.shields.io/badge/Hermes%20Agents-FF6B35?style=for-the-badge)
 
 ---
 
 ## 🛡️ What I'm Building
+
+### 🏆 [Agent Wins](https://agentwins.app)
+> AI agent use cases that actually worked — receipts, plus a copy-ready recipe.
+
+### 🛰️ [Tailscale Admin](https://x.ai/bot/xoIfh7oH4feicifYOgRMg)
+> Free Grok Bot template that joins a tailnet, then audits ACLs, devices, and Tailscale SSH before it changes anything.
 
 ### 🧪 [GetWiredDev](https://github.com/GetWiredDev) (Maintainer)
 > QA-focused AI agent framework with Intent/Auggie integration.
@@ -65,14 +71,17 @@
 ### 📏 LalaBench *(private)*
 > AI Benchmarking Tooling — reproducible evaluation harnesses for LLM performance.
 
+### 📝 [Writing](https://chevyphillip.tech/blog)
+> Notes on LLM security, agent engineering, and building in public.
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![Chevon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chevyphillip&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chevyphillip&layout=compact&theme=radical&hide_border=true)
+[![Followers](https://img.shields.io/github/followers/chevyphillip?style=for-the-badge&logo=github&label=Followers&color=24292e)](https://github.com/chevyphillip?tab=followers)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchevyphillip&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20repos&color=24292e)](https://github.com/chevyphillip?tab=repositories)
 
 </div>
 
