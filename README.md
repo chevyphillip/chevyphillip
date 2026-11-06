@@ -81,7 +81,7 @@
 <div align="center">
   
 [![Followers](https://img.shields.io/github/followers/chevyphillip?style=for-the-badge&logo=github&label=Followers&color=24292e)](https://github.com/chevyphillip?tab=followers)
-[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchevyphillip&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20repos&color=24292e)](https://github.com/chevyphillip?tab=repositories)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/chevyphillip&query=$.public_repos&style=for-the-badge&logo=github&label=Public%20repos&color=24292e)](https://github.com/chevyphillip?tab=repositories)
 
 </div>
 
