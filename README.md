@@ -62,8 +62,8 @@
 ### 🛰️ [Tailscale Admin](https://x.ai/bot/xoIfh7oH4feicifYOgRMg)
 > Free Grok Bot template that joins a tailnet, then audits ACLs, devices, and Tailscale SSH before it changes anything.
 
-### 🧪 [GetWiredDev](https://github.com/GetWiredDev) (Maintainer)
-> QA-focused AI agent framework with Intent/Auggie integration.
+### 🧪 [GetWired](https://github.com/GetWiredDev/getwired) (Maintainer)
+> Human-like AI testing CLI for local web and native apps, with Intent and Auggie as providers.
 
 ### 🔒 HiveMind *(private)*
 > LLM Context Engine — building smarter context pipelines for agent workflows.
